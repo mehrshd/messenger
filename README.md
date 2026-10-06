@@ -7,6 +7,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-green?style=for-the-badge)
 
 [Features](#-features) •
 [Tech Stack](#-tech-stack) •
