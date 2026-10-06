@@ -8,8 +8,6 @@
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A structured REST API backend for a Messenger application**
-
 [Features](#-features) •
 [Tech Stack](#-tech-stack) •
 [Architecture](#-architecture) •
