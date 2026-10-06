@@ -1,5 +1,30 @@
 # 💬 Messenger
 
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-5.x-black?style=for-the-badge&logo=express)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb)
+
+![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**A structured REST API backend for a Messenger application**
+
+[Features](#-features) •
+[Tech Stack](#-tech-stack) •
+[Architecture](#-architecture) •
+[Installation](#-installation) •
+[API Endpoints](#-api-endpoints) •
+[Database](#-database)
+
+</div>
+
+---
+
 > **A modern full-stack messaging application built with React, Express.js, and MariaDB.**
 
 A full-stack messaging platform designed around real-world backend architecture, secure authentication, private conversations, account management, and a responsive modern interface.
