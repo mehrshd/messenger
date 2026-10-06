@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?style=for-the-badge&logo=node.js)
-
 ![Express](https://img.shields.io/badge/Express-5.x-black?style=for-the-badge&logo=express)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb)
