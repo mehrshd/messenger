@@ -2,12 +2,33 @@
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-5.x-black?style=for-the-badge&logo=express)
-![MariaDB](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=mariadb)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![React](https://img.shields.io/badge/React-green?style=for-the-badge)
+## 🛠️ Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5.x-000000?style=for-the-badge&logo=express&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-12.x-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Password%20Hashing-338033?style=for-the-badge)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-Email-22B573?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-5-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-Icons-F56565?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-Package_Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 [Features](#-features) •
 [Tech Stack](#-tech-stack) •
@@ -511,3 +532,30 @@ Messenger is continuously evolving as new backend architecture, security practic
 ## 📄 License
 
 This project is currently intended as a personal development and portfolio project.
+
+## 👨‍💻 Author
+
+**mehrshd**
+
+- 🐙 GitHub: [@mehrshd](https://github.com/mehrshd)
+- 💼 Portfolio: [mehrshd.com](https://github.com/mehrshd)
+
+---
+
+## 🙋 Support
+
+If you encounter any issues or have questions:
+
+1. Check existing [Issues](https://github.com/mehrshd/messenger-api-v1/issues)
+2. Create a new [Issue](https://github.com/mehrshd/messenger-api-v1/issues/new)
+3. Join discussions in [Discussions](https://github.com/mehrshd/messenger-api-v1/discussions)
+
+---
+
+<p align="center">
+  Built with ❤️ using React, Node.js, Express, and MariaDB.
+</p>
+
+<p align="center">
+  <sub>Designed, built, and continuously improved from the ground up.</sub>
+</p>
